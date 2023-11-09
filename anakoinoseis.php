@@ -22,17 +22,17 @@
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
 	</head>
-	
+
 	<body>
 		<div class="page-wrap">
-			
+
 			<!-- header -->
 			<header class="header header__style-03">
 				<div class="container">
 					<div class="header__logo"><a href="index.html"><img src="assets/img/logo.png" alt=""/></a></div>
 					<div class="header__toogleGroup">
 						<div class="header__chooseLanguage">
-										
+
 										<!-- dropdown -->
 										<div class="dropdown" data-init="dropdown"><a class="dropdown__toggle" href="javascript:void(0)">GR <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 											<div class="dropdown__content" data-position="right">
@@ -43,13 +43,13 @@
 												</ul>
 											</div>
 										</div><!-- End / dropdown -->
-										
+
 						</div>
 					</div>
-					
+
 					<!-- consult-nav -->
 					<nav class="consult-nav">
-						
+
 						<!-- consult-menu -->
 						<ul class="consult-menu">
 
@@ -131,122 +131,26 @@
 							<li><a href="contact.html">ΕΠΙΚΟΙΝΩΝΙΑ</a>
 							</li>
 						</ul><!-- consult-menu -->
-						
+
 						<div class="navbar-toggle"><span></span><span></span><span></span></div>
 					</nav><!-- End / consult-nav -->
-					
+
 				</div>
 			</header><!-- End / header -->
-			
+
 			<!-- Content-->
 			<div class="md-content">
-				
-				<!-- slider -->
-				<div class="slider">
-					
-					<!-- carousel__element owl-carousel -->
-					<div class="carousel__element owl-carousel" data-options='{"items":1,"loop":true,"dots":false,"nav":false,"margin":0, "autoplay": true, "autoplayTimeout": 3000}'>
-						<div class="slider__item" style="background-image: url('assets/img/carousel1.jpg');">
-							<div class="md-tb">
-								<div class="md-tb__cell">
-									<div class="slider__content">
-										<div class="container">
-											<h2>ΠΜΣ Πληροφορικής και Δικτύων</h2>
-											<p>Το Π.Μ.Σ. έχει ως αντικείμενο την Επιστήμη της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="slider__item" style="background-image: url('assets/img/carousel2.jpg');">
-							<div class="md-tb">
-								<div class="md-tb__cell">
-									<div class="slider__content">
-										<div class="container">
-											<h2>ΠΜΣ Πληροφορικής και Δικτύων</h2>
-											<p>Το Π.Μ.Σ. έχει ως αντικείμενο την Επιστήμη της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="slider__item" style="background-image: url('assets/img/carousel3.jpg');">
-							<div class="md-tb">
-								<div class="md-tb__cell">
-									<div class="slider__content">
-										<div class="container">
-											<h2>ΠΜΣ Πληροφορικής και Δικτύων</h2>
-											<p>Το Π.Μ.Σ. έχει ως αντικείμενο την Επιστήμη της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div><!-- End / carousel__element owl-carousel -->
-					
-				</div><!-- End / slider -->
-				
-				<!-- Service-->
-				
-				<!-- Section -->
-				<section class="md-section" style="background-color:#f7f7f7;padding:0;">
-					<div class="container">
-						<div class="textbox-group">
-							<div class="row">
-								<div class="col-md-4 col-lg-4 ">
-									
-									<!-- textbox -->
-									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/info1.webp" alt=""/></a></div>
-										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="index.html">Γίνε ειδικός</a></h2>
-											<div class="textbox__description">Ανάπτυξη ερευνητικών δεξιοτήτων σε επιστημονικούς τομείς, που σχετίζονται με τα πεδία της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων </div>
-										</div>
-									</div><!-- End / textbox -->
-									
-								</div>
-								<div class="col-md-4 col-lg-4 ">
-									
-									<!-- textbox -->
-									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/info2.jpg" alt=""/></a></div>
-										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="index.html">Ενίσχυση Των Γνώσεων</a></h2>
-											<div class="textbox__description">
-Προσφέρει επικαιροποίηση και ενίσχυση των γνώσεων των επαγγελματιών του τομέα της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων
-</div>
-										</div>
-									</div><!-- End / textbox -->
-									
-								</div>
-								<div class="col-md-4 col-lg-4 ">
-									
-									<!-- textbox -->
-									<div class="textbox">
-										<div class="textbox__image"><a href="#"><img src="assets/img/info3.jpg" alt=""/></a></div>
-										<div class="textbox__body">
-											<h2 class="textbox__title"><a href="#"> Επιπλέον Γνώσεις </a></h2>
-											<div class="textbox__description">Πρόσθετες μορφές εκπαίδευσης των μεταπτυχιακών φοιτητών (σεμιναριακές εισηγήσεις από εξειδικευμένους καθηγητές, ερευνητικές εργασίες, κ.α.) </div>
-										</div>
-									</div><!-- End / textbox -->
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<!-- End / Section -->
-				
-				
-				<!-- Section -->
+
+
 				<section class="md-section" style="background-color:#f7f7f7;padding-top:0;">
 					<div class="container">
 								<!-- iconbox -->
 								<div class="iconbox">
 									<div class="iconbox__icon"><i class="ti-headphone-alt"></i></div>
 									<div>
-										<h2 class="iconbox__title"><a href="#">Πρόγραμμα Μεταπτυχιακών Σπουδών (Π.Μ.Σ.) με τίτλο «Πληροφορική και Δίκτυα»</a></h2>
-										<div class="iconbox__description">Το Π.Μ.Σ. έχει ως αντικείμενο την Επιστήμη της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων και καλύπτει το θεωρητικό και τεχνολογικό μέρος της, παρέχοντας στους φοιτητές δυνατότητες ειδίκευσης σε επιλεγόμενα μαθήματα, και ανάπτυξης ερευνητικών δεξιοτήτων σε επιστημονικούς τομείς, που σχετίζονται με τα πεδία της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων. Παράλληλα, το Π.Μ.Σ. προσφέρει επικαιροποίηση και ενίσχυση των γνώσεων των επαγγελματιών του τομέα της Πληροφορικής, των Τηλεπικοινωνιών και των Δικτύων, προκειμένου να αντιμετωπίσουν τις προκλήσεις ενός συνεχώς εξελισσόμενου τομέα.</div>
+										<h2 class="iconbox__title"><a href="#">ΑΝΑΚΟΙΝΩΣΕΙΣ</a></h2>
+										<div class="iconbox__description" >
+										</div>
 									</div>
 								</div><!-- End / iconbox -->
 
@@ -254,7 +158,7 @@
 					</div>
 				</section>
 				<!-- End / Section -->
-			
+
 			<!-- footer -->
 			<footer class="footer">
 				<div class="footer__main">
@@ -266,7 +170,7 @@
 						</div>
 						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-1 ">
 							<div class="footer__item">
-									
+
 									<!-- widget-text__widget -->
 									<section class="widget-text__widget widget">
 										<div class="widget-text__content">
@@ -280,12 +184,12 @@
 											</ul>
 										</div>
 									</section><!-- End / widget-text__widget -->
-									
+
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 ">
 							<div class="footer__item">
-									
+
 									<!-- widget-text__widget -->
 									<section class="widget-text__widget widget">
 										<div class="widget-text__content">
@@ -299,7 +203,7 @@
 											</ul>
 										</div>
 									</section>
-									
+
 							</div>
 						</div>
 						<div class="col-md-4 col-lg-2 col-xl-2 ">
@@ -325,7 +229,7 @@
 				</div>
 				<div class="footer__copyright">2022 &copy; Copyright <a href="https://kic.uoi.gr" style="color:white">Kic Lab</a>. All rights Reserved.</div>
 			</footer><!-- End / footer -->
-			
+
 		</div>
 		<!-- Vendors-->
 		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
