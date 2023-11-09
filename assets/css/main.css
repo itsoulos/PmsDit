@@ -2606,6 +2606,7 @@ mark, .mark {
 
 .iconbox__description {
     content: "";
+    text-align: left;
 }
 
 .iconbox__style-02 {
@@ -3910,7 +3911,7 @@ mark, .mark {
 }
 
 .header__style-03 {
-    background-color: transparent;
+    background-color: #1a1a23;
     box-shadow: none;
 }
 
