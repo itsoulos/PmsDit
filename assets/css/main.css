@@ -2565,6 +2565,7 @@ mark, .mark {
 .iconbox {
     text-align: center;
     margin-bottom: 50px;
+     margin-top: 25px;
 }
 
 @media (min-width: 320px) {
@@ -2607,6 +2608,7 @@ mark, .mark {
 .iconbox__description {
     content: "";
     text-align: left;
+
 }
 
 .iconbox__style-02 {
@@ -3808,7 +3810,7 @@ mark, .mark {
 }
 
 .header__logo {
-    height: 200px;
+    height: 100px;
     max-width: 140px;
     line-height: 100px;
     float: left;
